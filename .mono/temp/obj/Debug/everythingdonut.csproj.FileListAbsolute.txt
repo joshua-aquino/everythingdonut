@@ -1,0 +1,9 @@
+C:\Users\Joshua\Documents\everythingdonut\.mono\temp\bin\Debug\everythingdonut.dll
+C:\Users\Joshua\Documents\everythingdonut\.mono\temp\bin\Debug\everythingdonut.pdb
+C:\Users\Joshua\Documents\everythingdonut\.mono\temp\obj\Debug\everythingdonut.csproj.AssemblyReference.cache
+C:\Users\Joshua\Documents\everythingdonut\.mono\temp\obj\Debug\everythingdonut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua\Documents\everythingdonut\.mono\temp\obj\Debug\everythingdonut.AssemblyInfoInputs.cache
+C:\Users\Joshua\Documents\everythingdonut\.mono\temp\obj\Debug\everythingdonut.AssemblyInfo.cs
+C:\Users\Joshua\Documents\everythingdonut\.mono\temp\obj\Debug\everythingdonut.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Documents\everythingdonut\.mono\temp\obj\Debug\everythingdonut.dll
+C:\Users\Joshua\Documents\everythingdonut\.mono\temp\obj\Debug\everythingdonut.pdb

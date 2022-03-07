@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KCxrpfX1QK+LKBiv06Jc4Voe/CG2vf1jOt2CX9zIkvPlIeCIKk5h5j/jN46sCx2hi+NRsLHn8JsNfCR/ry0gsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joshua\\Documents\\everythingdonut\\everythingdonut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joshua\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Joshua\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.0\\microsoft.netframework.referenceassemblies.net472.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
