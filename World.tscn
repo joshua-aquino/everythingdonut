@@ -28,7 +28,8 @@ wait_time = 0.5
 one_shot = true
 
 [node name="Camera" type="Camera" parent="."]
-transform = Transform( -4.1145e-08, 0.941288, -0.337605, -1.47572e-08, 0.337605, 0.941288, 1, 4.37114e-08, 1.77636e-15, -0.0577706, 0.64123, -0.0429026 )
+transform = Transform( -2.07573e-08, 0.474871, -0.880055, -3.84684e-08, 0.880055, 0.474871, 1, 4.37114e-08, 1.06581e-14, -0.120176, 0.635286, -0.0459343 )
 current = true
+fov = 24.2
 
 [connection signal="timeout" from="donut/SwipeTimer" to="donut" method="onSwipeTimerTimeout"]
